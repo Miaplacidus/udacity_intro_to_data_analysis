@@ -7,7 +7,7 @@ The final project is an analysis of passenger data for the RMS Titanic.
 ## Installation
 To view the notebooks locally, you will need to have the following on your machine:
 
-* (python 2.7)[https://www.python.org/downloads/]
+* [python 2.7](https://www.python.org/downloads/)
 * ipywidgets
 * Jupyter Notebook
 * matplotlib
